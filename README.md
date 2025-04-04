@@ -1,7 +1,7 @@
 - @The-Video-Star
 - He/Him
 - Unity/C# developer
-- Working on a video game atm
+- Circle Clicker out now bruh
 
 <!---
 The-Video-Star/The-Video-Star is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
